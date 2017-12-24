@@ -1,10 +1,7 @@
 # PrisonBreak
 Faculty of Engineering and Technology 
-
 Master of Software Engineering (SWEN)
-
 Software Project Management
-
 First Semester 2017/2018
 
 Team Members:
