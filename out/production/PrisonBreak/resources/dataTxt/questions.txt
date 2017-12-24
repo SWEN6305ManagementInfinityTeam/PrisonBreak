@@ -1,0 +1,19 @@
+# stageId | QuestionId| Qdescription | mark
+# Satge a -----------------------------
+A|Q1|As you are the one who had thought of the escaping idea at first, how would you convince the other team members to follow your lead?|5
+A|Q2|As you are a team member in prison break planning team, would you care about tasks time and specific role for each team member?|5
+A|Q3|Two of your friends are showing signs of illness, that makes it hard to start the execution of the plan today, and as part of your work as a doctor (before being arrested), <br/> you should decide what should be done to overcome this issue, what would you do?|5
+A|Q4|As a team member in prison break planning team, would you like to join the planning process?|5
+A|Q5|If there is a chance to break the prison, what would your plan be?|5
+# Satge b -----------------------------
+B|Q1|As a team member in prison break team and after the plan is set, you have decided to dig a tunnel. Then, tasks are assigned to each member to dig the tunnel.<br/> Would you do your task as agreed on?|5
+B|Q2|You decide to break the prison by digging a tunnel in the wall, if the guard discovered it, what would you do?|5
+B|Q3|During digging the tunnel, a team member who is the main person on digging is ill, and if he stops working he will cause a delay. What would you do?|5
+B|Q4|As you and the team digging into the ground, a fight has raised between two members about the way both are digging, what would you do to stop this fight?|5
+B|Q5|While digging the tunnel a collapse happened. What would you do?|5
+# Satge c -----------------------------
+C|Q1|You are inside the tunnel and there is a car waiting for you outside. How would you manage with other team members to go out of the tunnel?|5
+C|Q2|If the team members should go to the car one by one, at this point two members have a quarrel one want to go first, what would you do?|5
+C|Q3|When you and all the team members came out from tunnel, you all are surprised that a wall is around you and a team member missed the rope. What would you do?|5
+C|Q4|As you are running towards your freedom, your waiting car, one of the members who is  'the love of your life' stumbles in wheat fields and can't continue <br/> running by himself, what would you do?|5
+C|Q5|After eight hours of break, you are now besieged by police, you have these places, which one would you choose to run?|5

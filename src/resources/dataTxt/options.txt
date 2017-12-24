@@ -1,0 +1,91 @@
+# SatgeId | QuestionId | OptionId | OpDescription | markValue | charValue
+# _____________________________________________ satge A Q1
+A|Q1|OP1|By Teasing the other prisoners by convincing them that they would stay in prison if they don't follow your lead, because they are not smart as you are.|2|SH
+A|Q1|OP2|Encourage the prisoners to do what you think it's the right thing to do, by reminding them of how their life would be wonderful if they got to escape. |3|TW
+A|Q1|OP3|You discuss your idea with the prisoners, and never hesitate to take their thoughts into consideration.|5|CO
+A|Q1|OP4|You tell the other prisoners about your idea of escaping, but you prefer to let someone else plan it.|1|IM
+A|Q1|OP5|You express your idea to the others, discuss with them the basic ideas of the escaping plan, and leave the rest to the others to do.|4|PL
+# ---------------------------- satge A Q2
+A|Q2|OP1|Definitely Yes. Time is critical and we should specify every single task and time. On the same side, I need to assign roles for each team member depending on my own point of view|4|SH
+A|Q2|OP2|Definitely time is too important and we should be careful about it in order to work well with dependencies. On the other hand, roles should be planned well but through negotiation with the team because I trust their thoughts.|5|CO
+A|Q2|OP3|No, I don't care about these details the main idea of each stage is the top priority for me.|1|PL
+A|Q2|OP4|I may put some effort when it's needed through planning in order to reach mutual ideas by all team members.|3|TW
+A|Q2|OP5|Definitely Yes, but I only need these info for my own task in order to achieve it later. I don't care about other tasks and roles.|2|IM
+# ---------------------------- satge A Q3
+A|Q3|OP1|You decide to give them the first aid available, and push them to go forward with the plan as expected.|5|SH
+A|Q3|OP2|You don't like to be blamed on what may happen in the future, so you let a trusting member decide instead of you.|2|CO
+A|Q3|OP3|You are very honest, and you think it is best to exclude both of them from the operation, so you face them with the truth, and you tell them how sorry you are <br/> because that has happened, and you decide to go forward with the plan.|4|PL
+A|Q3|OP4|You care about your friends, and you can't leave them behind, so you decide to postpone the operation to the next few days.|3|TW
+A|Q3|OP5|You make the needed examination for both of them and give them the right medicine available in order to be healthy as soon as possible.|1|IM
+# ---------------------------- satge A Q4
+A|Q4|OP1|Yes, I would dynamically join the team and support them to solve problems but I wouldn't care about their feelings.|1|SH
+A|Q4|OP2|Yes definitely, I would clarify the goals and help in spread team roles and tasks. I can hold the team very well.|3|CO
+A|Q4|OP3|Definitely, I would participate by giving new ideas and plans.|4|PL
+A|Q4|OP4|Yes of course I would like to, moreover, I would like to help the team to work and communicate together to achieve a good plan.|5|IM
+A|Q4|OP5|I would join if the team asked me to do a specific thing.|1|PL
+# ---------------------------- satge A Q5
+A|Q5|OP1|Bribing the guard.|2|CO
+A|Q5|OP2|You draw a well thought out plan for your break.|5|PL
+A|Q5|OP3|You would work with others to break it.|3|TW
+A|Q5|OP4|You would never think about it.|1|IM
+A|Q5|OP5|You would lead others to escape by Ventilation aperture in prison room.|4|SH
+# _____________________________________________ satge B Q1
+B|Q1|OP1|I would do my task and encourage members to do their tasks and challenge them.|2|SH
+B|Q1|OP2|If there is someone who wants to do my task I wouldn't refuse this.|3|CO
+B|Q1|OP3|I don't like practical things and tasks I prefer to solve problems once arised.|1|PL
+B|Q1|OP4|I would do the task asked from me, and would help the others in their tasks.|4|TW
+B|Q1|OP5|I would do my task in a perfect way even if it's boring but I would hope that no new circumstances appear.|5|IM
+# ---------------------------- satge B Q2
+B|Q2|OP1|I would Kill him.|3|SH
+B|Q2|OP2|I would talk with him to let me go.|4|CO
+B|Q2|OP3|I would shackle him and think again of an alternative plan.|5|PL
+B|Q2|OP4|I would give up as I'm alone.|2|TW
+B|Q2|OP5|I would do Nothing.|1|IM
+# ---------------------------- satge B Q3
+B|Q3|OP1|I would force all members to put an additional effort.|4|SH
+B|Q3|OP2|I would handle the effort of covering with the team by balancing a new additional effort.|5|CO
+B|Q3|OP3|I would volunteer to cover the effort.|3|TW
+B|Q3|OP4|I would wait for the solution, and at the same time, I would focus to finish my task on time.|2|IM
+B|Q3|OP5|It's a trivial issue, and I think the team could handle this issue without the need of myhelp.|1|PL
+# ---------------------------- satge B Q4
+B|Q4|OP1|You know that their voices might get the team and plan into danger, so you would command them to remain silent, otherwise you would punish them.|4|SH
+B|Q4|OP2|You would separate them from working beside each other, and you would let another member replace his position with one of them.|5|CO
+B|Q4|OP3|You don't like to interfere with such situations, so you would continue doing your work without caring of what might be happening between both of them|2|PL
+B|Q4|OP4|You would calm them down, and you would try to listen to both of them in order to overcome this conflict and get back to work.|3|TW
+B|Q4|OP5|You recognize that your body is weaker than both of them, and that they may hurt you accidentally, so you would decide to keep your distance, and be sufficient with watching.|1|IM
+# ---------------------------- satge B Q5
+B|Q5|OP1|Run away without waiting anyone.|1|SH
+B|Q5|OP2|Give a solution so all of us can run away|5|PL
+B|Q5|OP3|Keep calm and wait for an alternative plan to do it.|2|IM
+B|Q5|OP4|I would motivate the team members to not give up.|4|TW
+B|Q5|OP5|I would remind them that we are very close to our goal and that we can survive.|3|CO
+# _____________________________________________ satge C Q1
+C|Q1|OP1|I would keep encouraging the team members and remind them that we are very close to achieving our goal.|2|SH
+C|Q1|OP2|We would go out of it one by one so I would divide the turns for how to go out.|4|CO
+C|Q1|OP3|I would commit my turn, but if something wrong happens I would be the first one to give a solution.|1|PL
+C|Q1|OP4|I would talk with the members and manage everything with them.|3|TW
+C|Q1|OP5|I would commit my turn and do exactly as expected in the plan.|5|IM
+# ---------------------------- satge C Q2
+C|Q2|OP1|You would apply the following brilliant idea: invest the quarrel so you can go first.|1|PL
+C|Q2|OP2|You would wait until the team take decision.|2|IM
+C|Q2|OP3|You would listen to each one's idea and then take the decision with the rest of the team members by your skills.|3|CO
+C|Q2|OP4|You would put some effort to convince the team to finish the quarrel.|4|TW
+C|Q2|OP5|You would take the leader role from the start and from this position you would enforce the team to apply your previous plan because there is no time to these conflict.|5|SH
+# ---------------------------- satge C Q3
+C|Q3|OP1|I would force the person who missed the rope to return back and find the rope and who can climb should wait.|1|SH
+C|Q3|OP2|I would suggest that who can climb should do, and at the same time ask about the best idea to help who can't climb with rope.|5|CO
+C|Q3|OP3|I would give an idea to make our own rope by our clothes.|4|PL
+C|Q3|OP4|I'll suggest helping who can't climb first.|3|TW
+C|Q3|OP5|I will follow the exact instruction after finding the solution.|2|IM
+# ---------------------------- satge C Q4
+C|Q4|OP1|You can't risk him getting caught, that means your plan is failing, so you command the others to go back and help him with you.|4|SH
+C|Q4|OP2|You are aware that the guards haven't known about your escape yet, and that the wall guard is busy with eating donuts and checking his phone, and thus you have time <br/> to help him, and that what you do.|5|CO
+C|Q4|OP3|As the guards haven't noticed your absence yet, you decide to hide him between the tall wheat spikes, so you can come later and save him.|1|PL
+C|Q4|OP4|You love him, and you don't imagine your life without him, so you decide to go back and hold him to the car.|3|TW
+C|Q4|OP5|He shouts at you, and orders you to run as fast as possible, and that he will catch you up soon, and you do what he has told you to do.|2|IM
+# ---------------------------- satge C Q5
+C|Q5|OP1|You are planned for this before, you will go through the Forest between trees as there is someone waiting you in cottage.|5|PL
+C|Q5|OP2|You are alone, so you can't do a lot.|4|TW
+C|Q5|OP3|The Street, so you can escape by car.|3|CO
+C|Q5|OP4|Fight them by one of police gun.|2|SH
+C|Q5|OP5|Nowhere.|1|IM

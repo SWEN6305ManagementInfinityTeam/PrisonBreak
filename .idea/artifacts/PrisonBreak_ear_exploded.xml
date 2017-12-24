@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="PrisonBreak:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/PrisonBreak_ear_exploded.ear</output-path>
+    <root id="root">
+      <element id="archive" name="prisonBreak.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="PrisonBreak" />
+        <element id="javaee-facet-resources" facet="PrisonBreak/javaeeApplication/javaEEApplication" />
+      </element>
+    </root>
+  </artifact>
+</component>

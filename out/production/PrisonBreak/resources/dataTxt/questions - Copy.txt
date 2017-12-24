@@ -1,0 +1,19 @@
+# stageId | QuestionId| Qdescription | mark
+# Satge a -----------------------------
+A|Q1|How are you today1?|5
+A|Q2|How are you today2?|5
+A|Q3|How are you today3?|5
+A|Q4|How are you today4?|5
+A|Q5|How are you today5?|5
+# Satge b -----------------------------
+B|Q1|What you doing1?|5
+B|Q2|What you doing2?|5
+B|Q3|What you doing3?|5
+B|Q4|What you doing4?|5
+B|Q5|What you doing5?|5
+# Satge c -----------------------------
+C|Q1|What you doing1?|5
+C|Q2|What you doing2?|5
+C|Q3|What you doing3?|5
+C|Q4|What you doing4?|5
+C|Q5|What you doing5?|5

@@ -1,0 +1,91 @@
+# SatgeId | QuestionId | OptionId | OpDescription | markValue | charValue
+# _____________________________________________ satge A Q1
+A|Q1|OP1|Option A 1.1|5|TW
+A|Q1|OP2|Option A 1.2|4|SH
+A|Q1|OP3|Option A 1.3|3|IM
+A|Q1|OP4|Option A 1.4|2|CO
+A|Q1|OP5|Option A 1.5|1|PL
+# ---------------------------- satge A Q2
+A|Q2|OP1|Option A 2.1|5|PL
+A|Q2|OP2|Option A 2.2|4|SH
+A|Q2|OP3|Option A 2.3|3|IM
+A|Q2|OP4|Option A 2.4|2|CO
+A|Q2|OP5|Option A 2.5|1|TW
+# ---------------------------- satge A Q3
+A|Q3|OP1|Option A 3.1|5|PL
+A|Q3|OP2|Option A 3.2|4|TW
+A|Q3|OP3|Option A 3.3|3|CO
+A|Q3|OP4|Option A 3.4|2|SH
+A|Q3|OP5|Option A 3.5|1|IM
+# ---------------------------- satge A Q4
+A|Q4|OP1|Option A 4.1|5|SH
+A|Q4|OP2|Option A 4.2|4|TW
+A|Q4|OP3|Option A 4.3|3|IM
+A|Q4|OP4|Option A 4.4|2|CO
+A|Q4|OP5|Option A 4.5|1|PL
+# ---------------------------- satge A Q5
+A|Q5|OP1|Option A 5.1|5|SH
+A|Q5|OP2|Option A 5.2|4|IM
+A|Q5|OP3|Option A 5.3|3|CO
+A|Q5|OP4|Option A 5.4|2|TW
+A|Q5|OP5|Option A 5.5|1|PL
+# _____________________________________________ satge B Q1
+B|Q1|OP1|Option B 1.1|5|SH
+B|Q1|OP2|Option B 1.2|4|CO
+B|Q1|OP3|Option B 1.3|3|TW
+B|Q1|OP4|Option B 1.4|2|IM
+B|Q1|OP5|Option B 1.5|1|PL
+# ---------------------------- satge B Q2
+B|Q2|OP1|Option B 2.1|5|IM
+B|Q2|OP2|Option B 2.2|4|TW
+B|Q2|OP3|Option B 2.3|3|CO
+B|Q2|OP4|Option B 2.4|2|SH
+B|Q2|OP5|Option B 2.5|1|PL
+# ---------------------------- satge B Q3
+B|Q3|OP1|Option B 3.1|5|SH
+B|Q3|OP2|Option B 3.2|4|CO
+B|Q3|OP3|Option B 3.3|3|IM
+B|Q3|OP4|Option B 3.4|2|TW
+B|Q3|OP5|Option B 3.5|1|PL
+# ---------------------------- satge B Q4
+B|Q4|OP1|Option B 4.1|5|CO
+B|Q4|OP2|Option B 4.2|4|SH
+B|Q4|OP3|Option B 4.3|3|TW
+B|Q4|OP4|Option B 4.4|2|PL
+B|Q4|OP5|Option B 4.5|1|IM
+# ---------------------------- satge B Q5
+B|Q5|OP1|Option B 5.1|5|SH
+B|Q5|OP2|Option B 5.2|4|CO
+B|Q5|OP3|Option B 5.3|3|TW
+B|Q5|OP4|Option B 5.4|2|IM
+B|Q5|OP5|Option B 5.5|1|PL
+# _____________________________________________ satge C Q1
+C|Q1|OP1|Option C 1.1|5|IM
+C|Q1|OP2|Option C 1.2|4|TW
+C|Q1|OP3|Option C 1.3|3|CO
+C|Q1|OP4|Option C 1.4|2|SH
+C|Q1|OP5|Option C 1.5|1|PL
+# ---------------------------- satge C Q2
+C|Q2|OP1|Option C 2.1|5|TW
+C|Q2|OP2|Option C 2.2|4|CO
+C|Q2|OP3|Option C 2.3|3|IM
+C|Q2|OP4|Option C 2.4|2|SH
+C|Q2|OP5|Option C 2.5|1|PL
+# ---------------------------- satge C Q3
+C|Q3|OP1|Option C 3.1|5|TW
+C|Q3|OP2|Option C 3.2|4|CO
+C|Q3|OP3|Option C 3.3|3|SH
+C|Q3|OP4|Option C 3.4|2|IM
+C|Q3|OP5|Option C 3.5|1|PL
+# ---------------------------- satge C Q4
+C|Q4|OP1|Option C 4.1|5|CO
+C|Q4|OP2|Option C 4.2|4|TW
+C|Q4|OP3|Option C 4.3|3|IM
+C|Q4|OP4|Option C 4.4|2|PL
+C|Q4|OP5|Option C 4.5|1|SH
+# ---------------------------- satge C Q5
+C|Q5|OP1|Option C 5.1|5|SH
+C|Q5|OP2|Option C 5.2|4|CO
+C|Q5|OP3|Option C 5.3|3|IM
+C|Q5|OP4|Option C 5.4|2|TW
+C|Q5|OP5|Option C 5.5|1|PL
